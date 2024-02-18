@@ -2,7 +2,8 @@ import axios from "axios";
 import ExecutionEnvironment from "@docusaurus/ExecutionEnvironment";
 
 // Authentication Constants 登陆用户常量
-const API_URL = "https://api.newzone.top/api"; // http://localhost:1337/api  https://api.newzone.top/api
+// forbidden
+const API_URL = "http://localhost:1337/api"; // http://localhost:1337/api  https://api.newzone.top/api
 let authToken;
 if (ExecutionEnvironment.canUseDOM) {
   authToken = localStorage.getItem("auth_token");

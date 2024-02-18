@@ -14,6 +14,20 @@
   },
   {
     "en": {
+      "title": "Note organization",
+      "prompt": "I hope you can serve as a note organizing assistant. You will be faced with multiple fragmented notes in the book [title]. Your task is to logically organize and categorize the fragmented notes into multiple headings, with structured text used to express them under each heading. The notes are divided into [1] sections, which is the [1] section: []",
+      "remark": "Classify and organize notes"
+    },
+    "website": null,
+    "tags": [
+      "favorite",
+      "write"
+    ],
+    "id": 2000,
+    "weight": 14572
+  },
+  {
+    "en": {
       "title": "Writing assistant",
       "prompt": "As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected version of the text and avoid including explanations. Please begin by editing the following text:",
       "remark": "For optimising the grammar, clarity and conciseness of text and improving readability."

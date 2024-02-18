@@ -82,7 +82,6 @@ const prompt = {
   },
   "website": "https://learnprompting.org/docs/applied_prompting/short_response",
   "tags": [
-    "favorite",
     "article"
   ],
   "id": 4,

@@ -82,6 +82,7 @@ const prompt = {
   },
   "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-english-translator-and-improver",
   "tags": [
+    "favorite",
     "language"
   ],
   "id": 1,

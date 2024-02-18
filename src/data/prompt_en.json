@@ -7,6 +7,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-english-translator-and-improver",
     "tags": [
+      "favorite",
       "language"
     ],
     "id": 1,
@@ -61,7 +62,6 @@
     },
     "website": "https://learnprompting.org/docs/applied_prompting/short_response",
     "tags": [
-      "favorite",
       "article"
     ],
     "id": 4,
@@ -153,6 +153,7 @@
     },
     "website": null,
     "tags": [
+      "favorite",
       "write"
     ],
     "id": 11,
@@ -257,6 +258,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-journalist",
     "tags": [
+      "favorite",
       "article"
     ],
     "id": 19,
@@ -270,7 +272,6 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-academician",
     "tags": [
-      "favorite",
       "article"
     ],
     "id": 20,
@@ -1286,6 +1287,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-regex-generator",
     "tags": [
+      "favorite",
       "code"
     ],
     "id": 98,
@@ -1429,7 +1431,6 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-midjourney-prompt-generator",
     "tags": [
-      "favorite",
       "ai"
     ],
     "id": 109,
@@ -2598,7 +2599,6 @@
     },
     "website": null,
     "tags": [
-      "favorite",
       "contribute",
       "write"
     ],
@@ -2628,8 +2628,7 @@
     "website": null,
     "tags": [
       "contribute",
-      "social",
-      "favorite"
+      "social"
     ],
     "id": 199,
     "weight": 16666
@@ -2698,6 +2697,7 @@
     },
     "website": null,
     "tags": [
+      "favorite",
       "contribute",
       "write"
     ],
@@ -2740,6 +2740,7 @@
     },
     "website": null,
     "tags": [
+      "favorite",
       "social"
     ],
     "id": 207,
@@ -2753,6 +2754,7 @@
     },
     "website": null,
     "tags": [
+      "favorite",
       "social"
     ],
     "id": 208,
@@ -2806,6 +2808,7 @@
     },
     "website": null,
     "tags": [
+      "favorite",
       "contribute",
       "social"
     ],

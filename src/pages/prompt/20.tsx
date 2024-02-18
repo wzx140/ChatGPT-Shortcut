@@ -82,7 +82,6 @@ const prompt = {
   },
   "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-academician",
   "tags": [
-    "favorite",
     "article"
   ],
   "id": 20,

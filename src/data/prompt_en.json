@@ -15,9 +15,10 @@
   },
   {
     "en": {
-      "title": "Note organization",
-      "prompt": "I hope you can serve as a note organizing assistant. You will be faced with multiple fragmented notes in the book [title]. Your task is to logically organize and categorize the fragmented notes into multiple headings, with structured text used to express them under each heading. The notes are divided into [1] sections, which is the [1] section: []",
-      "remark": "Classify and organize notes"
+      "title": "null",
+      "prompt": "null",
+      "description": "null",
+      "remark": "null"
     },
     "website": null,
     "tags": [

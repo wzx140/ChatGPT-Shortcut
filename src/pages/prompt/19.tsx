@@ -82,7 +82,6 @@ const prompt = {
   },
   "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-journalist",
   "tags": [
-    "favorite",
     "article"
   ],
   "id": 19,

@@ -7,7 +7,6 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-english-translator-and-improver",
     "tags": [
-      "favorite",
       "language"
     ],
     "id": 1,
@@ -41,6 +40,20 @@
       "comments"
     ],
     "id": 2001,
+    "weight": 14572
+  },
+  {
+    "en": {
+      "title": "null",
+      "prompt": "null",
+      "remark": "null"
+    },
+    "website": null,
+    "tags": [
+      "favorite",
+      "write"
+    ],
+    "id": 2009,
     "weight": 14572
   },
   {
@@ -274,7 +287,6 @@
     },
     "website": null,
     "tags": [
-      "favorite",
       "write"
     ],
     "id": 11,
@@ -379,7 +391,6 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-journalist",
     "tags": [
-      "favorite",
       "article"
     ],
     "id": 19,

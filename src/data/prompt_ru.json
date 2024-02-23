@@ -15,36 +15,6 @@
   },
   {
     "ru": {
-      "title": "null",
-      "prompt": "null",
-      "description": "null",
-      "remark": "null"
-    },
-    "website": null,
-    "tags": [
-      "favorite",
-      "write"
-    ],
-    "id": 2000,
-    "weight": 14572
-  },
-  {
-    "ru": {
-      "title": "null",
-      "prompt": "null",
-      "description": "null",
-      "remark": "null"
-    },
-    "website": null,
-    "tags": [
-      "favorite",
-      "comments"
-    ],
-    "id": 2001,
-    "weight": 14572
-  },
-  {
-    "ru": {
       "title": "Помощник писателя",
       "prompt": "As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected version of the text and avoid including explanations. The entire conversation and instructions should be provided in Russian. Please begin by editing the following text: ",
       "description": "Ваша задача как помощника по улучшению китайского письма - улучшить орфографию, грамматику, ясность, краткость и общую читабельность предоставленного текста, а также разобрать длинные предложения, сократить количество повторов и дать предложения по улучшению. Просьба предоставлять только исправленный вариант текста и не включать в него пояснения. Начните, пожалуйста, с редактирования следующего текста: [содержание статьи]",

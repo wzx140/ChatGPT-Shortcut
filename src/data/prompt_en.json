@@ -46,20 +46,6 @@
     "en": {
       "title": "null",
       "prompt": "null",
-      "remark": "null"
-    },
-    "website": null,
-    "tags": [
-      "favorite",
-      "write"
-    ],
-    "id": 2009,
-    "weight": 14572
-  },
-  {
-    "en": {
-      "title": "null",
-      "prompt": "null",
       "description": "null",
       "remark": "null"
     },
@@ -69,13 +55,12 @@
       "write"
     ],
     "id": 2002,
-    "weight": 2000010
+    "weight": 14572
   },
   {
     "en": {
       "title": "null",
       "prompt": "null",
-      "description": "null",
       "remark": "null"
     },
     "website": null,
@@ -84,82 +69,7 @@
       "write"
     ],
     "id": 2003,
-    "weight": 2000009
-  },
-  {
-    "en": {
-      "title": "null",
-      "prompt": "null",
-      "description": "null",
-      "remark": "null"
-    },
-    "website": null,
-    "tags": [
-      "favorite",
-      "write"
-    ],
-    "id": 2004,
-    "weight": 2000008
-  },
-  {
-    "en": {
-      "title": "null",
-      "prompt": "null",
-      "description": "null",
-      "remark": "null"
-    },
-    "website": null,
-    "tags": [
-      "favorite",
-      "write"
-    ],
-    "id": 2005,
-    "weight": 2000007
-  },
-  {
-    "en": {
-      "title": "null",
-      "prompt": "null",
-      "description": "null",
-      "remark": "null"
-    },
-    "website": null,
-    "tags": [
-      "favorite",
-      "write"
-    ],
-    "id": 2006,
-    "weight": 2000006
-  },
-  {
-    "en": {
-      "title": "null",
-      "prompt": "null",
-      "description": "null",
-      "remark": "null"
-    },
-    "website": null,
-    "tags": [
-      "favorite",
-      "write"
-    ],
-    "id": 2007,
-    "weight": 2000005
-  },
-  {
-    "en": {
-      "title": "null",
-      "prompt": "null",
-      "description": "null",
-      "remark": "null"
-    },
-    "website": null,
-    "tags": [
-      "favorite",
-      "write"
-    ],
-    "id": 2008,
-    "weight": 2000004
+    "weight": 14572
   },
   {
     "en": {

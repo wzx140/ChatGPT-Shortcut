@@ -82,7 +82,6 @@ const prompt = {
   },
   "website": null,
   "tags": [
-    "favorite",
     "contribute",
     "write"
   ],
